@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.screaming {
+  background-image: url("Screaming1.jpg") ;
+  height:1000px;
+  width:1000px;
+}
+
+.laughing {
+  background-image: url("Laughing1.jpg");
+  height:1000px;
+  width:1000px;
+}
