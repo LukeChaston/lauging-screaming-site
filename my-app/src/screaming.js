@@ -14,4 +14,4 @@ class screaming extends React.Component {
 
 export default screaming
 
-ReactDOM.render(<submission />,document.getElementById('root'));
+ReactDOM.render(<screaming />,document.getElementById('root'));

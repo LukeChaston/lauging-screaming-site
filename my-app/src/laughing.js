@@ -14,4 +14,4 @@ class laughing extends React.Component {
 
 export default laughing
 
-ReactDOM.render(<submission />,document.getElementById('root'));
+ReactDOM.render(<laughing />,document.getElementById('root'));
