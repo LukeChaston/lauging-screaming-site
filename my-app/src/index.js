@@ -19,11 +19,11 @@ class routing extends React.Component {
             </li>
 
             <li>
-                 <Link to="/">Laughing</Link>
+                 <Link to="/laughing">Laughing</Link>
             </li>
 
             <li>
-                <Link to="/">Screaming</Link>
+                <Link to="/screaming">Screaming</Link>
             </li>
 
                </ul>
